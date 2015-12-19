@@ -1,0 +1,9 @@
+[package]
+name = "hyper_ex"
+version = "0.1.0"
+authors = ["nacika <nacika.inscatolare@gmail.com>"]
+
+[dependencies]
+hyper = "0.6.15"
+cookie = "^0.1"
+url = { git = "https://github.com/servo/rust-url"  }
